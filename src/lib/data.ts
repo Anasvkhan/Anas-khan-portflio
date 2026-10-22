@@ -233,9 +233,9 @@ export const EDUCATION: TimelineEntry[] = [
     kind: "Education",
     period: "2017 – 2019",
     start: 2017,
-    title: "High School / A-Levels",
+    title: " O/A-Levels",
     place: "Beaconhouse School System",
-    detail: "High School / A-Levels.",
+    detail: " O/A-Levels.",
   },
   {
     kind: "Education",
